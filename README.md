@@ -1,9 +1,15 @@
 # volunteer-management-portal
 
-This a volunteer management portal design I have designed with the help of Figma tool.
-User can view the seats availability, book the seat and view the ticket later and book any movies for later.  
+This a volunteer management portal web design I have designed with the help of Figma tool.
 
-### I use Figma for design this app. 
+### Here are the pages include my design.
+
+#### landing page
+#### Volunteer event page
+#### Volunteer event detail page
+#### Volunteer Registration Page
+#### Volunteer Profile Page
+#### Communication Center
 
 So here are some screen shots from my app
 
