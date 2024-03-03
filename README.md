@@ -11,7 +11,7 @@
  #### Volunteer Profile Page
  #### Communication Center
 
-So here are some screen shots from my app
+## So here are some screen shots from my app
 
 1. This is the overview the of the app
 
