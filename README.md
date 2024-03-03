@@ -56,5 +56,5 @@
 
 # If you want to see more I will attach the link below
 
-### https://github.com/HansiLeelasena/volunteer-management-portal/blob/95db61fe06b5e70c49ff5711480e9d9fe11d20ec/volunteer%20management%20portal.pdf
+### https://www.figma.com/file/6U4zAXbBJDBExyrxpws5KW/volunteer-management-portal?type=design&mode=design&t=GLwGcuZzvq7qLTbP-1
 
