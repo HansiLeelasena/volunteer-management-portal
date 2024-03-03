@@ -17,43 +17,41 @@
 
 <img src="https://github.com/HansiLeelasena/volunteer-management-portal/blob/212608aa844dde5171166493110b33c8b03cd89c/1.png" width="50%" height="20%"  /> </br>
 
-2. This is Home Page
+2. This is the Home Page
 
 <img src="https://github.com/HansiLeelasena/volunteer-management-portal/blob/83246c60a11c5ecf763ea642568a48c06b84aa1a/landing%20page.png" width="50%" height="20%"  /> </br>
 
-1. This is the overview the of the app
+3. This is the Events Page
 
-<img src="https://github.com/HansiLeelasena/Movie-Theater-App/blob/9b0d7fcfeff6de454390f4dcb8aa6c41a14183e9/1.png" width="50%" height="20%"  /> </br>
+<img src="https://github.com/HansiLeelasena/volunteer-management-portal/blob/0104d4f715d6ea393dbc614c742d026ec4cfa084/events%20page%201.png" width="50%" height="20%"  /> </br>
 
-1. This is the overview the of the app
+4. This is the Events Detailing Page
 
-<img src="https://github.com/HansiLeelasena/Movie-Theater-App/blob/9b0d7fcfeff6de454390f4dcb8aa6c41a14183e9/1.png" width="50%" height="20%"  /> </br>
+<img src="https://github.com/HansiLeelasena/volunteer-management-portal/blob/0104d4f715d6ea393dbc614c742d026ec4cfa084/events%20page%202.png" width="50%" height="20%"  /> </br>
 
-1. This is the overview the of the app
+5. This is the Select What To Be Page
 
-<img src="https://github.com/HansiLeelasena/Movie-Theater-App/blob/9b0d7fcfeff6de454390f4dcb8aa6c41a14183e9/1.png" width="50%" height="20%"  /> </br>
-
-
-1. This is the overview the of the app
-
-<img src="https://github.com/HansiLeelasena/Movie-Theater-App/blob/9b0d7fcfeff6de454390f4dcb8aa6c41a14183e9/1.png" width="50%" height="20%"  /> </br>
+<img src="https://github.com/HansiLeelasena/volunteer-management-portal/blob/0104d4f715d6ea393dbc614c742d026ec4cfa084/regi%20page%201.png" width="50%" height="20%"  /> </br>
 
 
-1. This is the overview the of the app
+6. This is the Registration Page
 
-<img src="https://github.com/HansiLeelasena/Movie-Theater-App/blob/9b0d7fcfeff6de454390f4dcb8aa6c41a14183e9/1.png" width="50%" height="20%"  /> </br>
-
-
-1. This is the overview the of the app
-
-<img src="https://github.com/HansiLeelasena/Movie-Theater-App/blob/9b0d7fcfeff6de454390f4dcb8aa6c41a14183e9/1.png" width="50%" height="20%"  /> </br>
+<img src="https://github.com/HansiLeelasena/volunteer-management-portal/blob/0104d4f715d6ea393dbc614c742d026ec4cfa084/regi%20page%202.png" width="50%" height="20%"  /> </br>
 
 
-1. This is the overview the of the app
+7. This is the Profile Page
 
-<img src="https://github.com/HansiLeelasena/Movie-Theater-App/blob/9b0d7fcfeff6de454390f4dcb8aa6c41a14183e9/1.png" width="50%" height="20%"  /> </br>
+<img src="https://github.com/HansiLeelasena/volunteer-management-portal/blob/0104d4f715d6ea393dbc614c742d026ec4cfa084/profile%20page%20.png" width="50%" height="20%"  /> </br>
 
 
-1. This is the overview the of the app
+8. This is the About Us Page
 
-<img src="https://github.com/HansiLeelasena/Movie-Theater-App/blob/9b0d7fcfeff6de454390f4dcb8aa6c41a14183e9/1.png" width="50%" height="20%"  /> </br>
+<img src="https://github.com/HansiLeelasena/volunteer-management-portal/blob/0104d4f715d6ea393dbc614c742d026ec4cfa084/about%20us%20pagee.png" width="50%" height="20%"  /> </br>
+
+
+9. This is the Contact Us Page
+
+<img src="https://github.com/HansiLeelasena/volunteer-management-portal/blob/0104d4f715d6ea393dbc614c742d026ec4cfa084/contact%20us%20page.png" width="50%" height="20%"  /> </br>
+
+
+
